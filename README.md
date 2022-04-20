@@ -17,7 +17,7 @@ Hey, it's my first GitHub Repository!
 - Things
 - Stuff & Things
 
-`Encapsulate code here for proper formatting`
+`code is formatted like this using markdown`
 
 ---
 [G5](https://www.getg5.com)
