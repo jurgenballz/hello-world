@@ -17,7 +17,7 @@ Hey, it's my first GitHub Repository!
 - Things
 - Stuff & Things
 
-`code is formatted like this`
+`code is formatted like this using markdown`
 
 ---
 [G5](https://www.getg5.com)
