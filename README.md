@@ -14,7 +14,9 @@ Hey, it's my first GitHub Repository!
 - Stuff
 - Things
 - Stuff & Things
-`code`
+`Encapsulate code here for proper formatting`
 ---
 [G5](https://www.getg5.com)
-![Flanders](flanders.jpg)
+
+![flanders](https://user-images.githubusercontent.com/103955308/164332169-10bf9fb6-2b4a-4f56-bfb4-36da18af2e5c.jpg)
+
