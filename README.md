@@ -17,7 +17,11 @@ Hey, it's my first GitHub Repository!
 - Things
 - Stuff & Things
 
-`Encapsulate code like this for proper formatting`
+`Encapsulate snippets of code like this for proper formatting`
+
+```
+Full lines of code gets formatted like this
+```
 
 ---
 [G5](https://www.getg5.com)
